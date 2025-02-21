@@ -14,7 +14,6 @@ Predictive Sleep Health Analysis is an ML-driven project designed to provide ins
 - Jupyter Notebook (IPYNB files)
 - Pandas, NumPy, Scikit-Learn
 - Matplotlib, Seaborn
-- TensorFlow/PyTorch (if deep learning is used)
 
 ## Installation
 1. Clone the repository:
