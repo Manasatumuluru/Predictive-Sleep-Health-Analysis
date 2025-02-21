@@ -38,6 +38,9 @@ Predictive Sleep Health Analysis is an ML-driven project designed to provide ins
 ## Dataset
 - The project uses publicly available sleep datasets.
 - Custom datasets can also be used for analysis.
+- The dataset used in this project is publicly available on Kaggle:  
+🔗 [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)  
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
